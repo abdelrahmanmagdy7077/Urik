@@ -1,1 +1,267 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="ime_label">لوحة مفاتيح Urik</string>
+    <string name="ime_description">الكتابة بالسحب، التدقيق الإملائي، ودعم لغات متعددة مع الحفاظ على خصوصيتك. لا نجمع بياناتك، كل شيء يبقى في جهازك</string>
 
+    <string name="enable_keyboard_title">تفعيل</string>
+    <string name="open_settings">فتح الإعدادات</string>
+    <string name="error_opening_settings">يوجد خطأ عند فتح الإعدادات</string>
+
+    <string name="settings_title">إعدادات لوحة المفاتيح</string>
+    <string name="about_title">حول التطبيق</string>
+    <string name="about_button">حول</string>
+    <string name="about_version">الإصدار</string>
+    <string name="about_copyright"> © 2025 Urik Development حقوق النشر</string>
+    <string name="about_license">GNU GPL v3.0 :الترخيص</string>
+    <string name="about_source_code">الكود المصدري</string>
+    <string name="about_release_notes">ملاحظات التحديث</string>
+    <string name="about_report_bug">الإبلاغ عن مشكلة</string>
+    <string name="about_privacy_policy">سياسة الخصوصية</string>
+    <string name="about_support">دعم المطور</string>
+    <string name="autocorrect_settings_title">التصحيح التلقائي</string>
+    <string name="autocorrect_settings_description">التدقيق الإملائي واقتراح الكلمات</string>
+    <string name="language_settings_title">اللغات</string>
+    <string name="language_settings_description">اختر لغات لوحة المفاتيح</string>
+    <string name="typing_settings_title">طريقة الكتابة</string>
+    <string name="typing_settings_description">علامات الترقيم، الاهتزاز عند اللمس، وغيرها.</string>
+    <string name="layout_settings_title">الشكل والإدخال</string>
+    <string name="layout_settings_description">صف الأرقام وحجم زر المسافة</string>
+    <string name="appearance_settings_title">المظهر</string>
+    <string name="appearance_settings_description">الألوان وحجم اللوحة</string>
+    <string name="privacy_settings_title">الخصوصية والبيانات</string>
+    <string name="privacy_settings_description">مسح البيانات وإعادة ضبط الإعدادات</string>
+    <string name="licenses_title">تراخيص البرامج</string>
+    <string name="licenses_description">تراخيص برامج الجهات الخارجية</string>
+    <string name="dictionary_attribution_title">القاموس</string>
+    <string name="theme_picker_title">شكل لوحة المفاتيح</string>
+    <string name="dictionary_attribution_summary">ترخيص FrequencyWords</string>
+    <string name="test_field_hint">جرب لوحة المفاتيح هنا</string>
+
+    <string name="key_size_small">صغير</string>
+    <string name="key_size_medium">متوسط</string>
+    <string name="key_size_large">كبير</string>
+    <string name="key_size_extra_large">كبير جداً</string>
+
+    <string name="long_press_duration_short">قصير</string>
+    <string name="long_press_duration_medium">متوسط</string>
+    <string name="long_press_duration_long">طويل</string>
+    <string name="cursor_speed_slow">بطيء</string>
+    <string name="cursor_speed_medium">متوسط</string>
+    <string name="cursor_speed_fast">سريع</string>
+
+    <string name="space_bar_size_compact">صغير</string>
+    <string name="space_bar_size_standard">متوسط</string>
+    <string name="space_bar_size_wide">عريض</string>
+
+    <string name="key_label_size_small">صغير</string>
+    <string name="key_label_size_medium">متوسط</string>
+    <string name="key_label_size_large">كبير</string>
+
+    <string name="appearance_settings_theme">المظهر</string>
+    <string name="appearance_settings_key_size">حجم الأزرار</string>
+    <string name="appearance_settings_key_label_size">حجم الحروف على الأزرار</string>
+
+    <string name="autocorrect_settings_spell_check">التدقيق الإملائي</string>
+    <string name="autocorrect_settings_spell_check_on">التدقيق الإملائي مفعل</string>
+    <string name="autocorrect_settings_spell_check_off">التدقيق الإملائي معطل</string>
+    <string name="autocorrect_settings_show_suggestions">إظهار الكلمات المقترحة</string>
+    <string name="autocorrect_settings_suggestions_on">الكلمات المقترحة ظاهرة</string>
+    <string name="autocorrect_settings_suggestions_off">الكلمات المقترحة مخفية</string>
+    <string name="autocorrect_settings_suggestion_count">عدد الكلمات المقترحة</string>
+    <string name="autocorrect_settings_learn_new_words">تعلُم الكلمات الجديدة تلقائياً</string>
+    <string name="autocorrect_settings_learn_new_words_on">التطبيق يتعلم الكلمات الجديدة</string>
+    <string name="autocorrect_settings_learn_new_words_off">التطبيق لا يتعلم الكلمات الجديدة</string>
+
+    <string name="select_active_language">اختر اللغة المفعلة </string>
+
+    <string name="primary_layout_language">لغة لوحة المفاتيح الاساسية</string>
+    <string name="feedback_settings_haptic_feedback">الاهتزاز عند الكتابة</string>
+    <string name="feedback_settings_haptic_on">الاهتزاز مفعل</string>
+    <string name="feedback_settings_haptic_off">الاهتزاز معطل</string>
+    <string name="feedback_settings_vibration_strength">قوة الاهتزاز</string>
+
+    <string name="typing_settings_double_space_period">مسافة مزدوجة للنقطة</string>
+    <string name="typing_settings_double_space_on">الضغط مرتين على زر المسافة يكتب نقطة</string>
+    <string name="typing_settings_double_space_off">الضغط مرتين على زر المسافة يكتب مسافة فقط</string>
+    <!--There is no capitalization in Arabic-->
+    <string name="typing_settings_auto_capitalization">كتابة الحرف الأول كبيراً تلقائياً (للغات الأجنبية)</string>
+    <string name="typing_settings_auto_capitalization_on">تفعيل الحرف الكبير في بداية الجملة</string>
+    <string name="typing_settings_auto_capitalization_off">تعطيل التكبير التلقائي</string>
+    <string name="typing_settings_swipe_on">الكتابة بالسحب مفعلة</string>
+    <string name="typing_settings_swipe_off">الكتابة بالسحب معطلة</string>
+    <string name="typing_settings_long_press_duration">مدة الضغط المطول</string>
+
+    <string name="layout_settings_alternative_layout">ترتيب الحروف</string>
+    <string name="layout_settings_adaptive_modes_enabled">تغيير شكل اللوحة تلقائياً</string>
+    <string name="layout_settings_adaptive_modes_on">يتغير الشكل حسب الجهاز (تابلت أو جهاز قابل للطي)</string>
+    <string name="layout_settings_adaptive_modes_off">استخدام الشكل العادي دائماً</string>
+    <string name="layout_settings_one_handed_mode_enabled">وضع اليد الواحدة</string>
+    <string name="layout_settings_one_handed_mode_on">مفعل</string>
+    <string name="layout_settings_one_handed_mode_off">لوحة مفاتيح عادية</string>
+    <string name="one_handed_mode_left">نقل لوحة المفاتيح لليسار</string>
+    <string name="one_handed_mode_right">نقل لوحة المفاتيح لليمين</string>
+    <string name="one_handed_mode_full">العودة للشكل العادي</string>
+    <string name="layout_settings_show_number_row">إظهار صف الأرقام</string>
+    <string name="layout_settings_number_row_on">صف الأرقام ظاهر</string>
+    <string name="layout_settings_number_row_off">صف الأرقام مخفي</string>
+    <string name="layout_settings_show_language_switch_key">إظهار زر تغيير اللغة</string>
+    <string name="layout_settings_language_switch_key_on">مفعل</string>
+    <string name="layout_settings_language_switch_key_off">معطل</string>
+    <string name="layout_settings_space_bar_size">حجم زر المسافة</string>
+    <string name="alternative_layout_default">الافتراضي</string>
+    <string name="alternative_layout_dvorak">Dvorak</string>
+    <string name="alternative_layout_colemak">Colemak</string>
+    <string name="alternative_layout_workman">Workman</string>
+    <string name="layout_settings_customize_keys">تعديل الأزرار</string>
+    <string name="layout_settings_customize_keys_summary">اختيار حرف يظهر عند الضغط المطول</string>
+
+    <string name="layout_mapper_title">تعديل الأزرار</string>
+    <string name="layout_mapper_instructions">اضغط على أي زر لاختيار حرف جديد له. عند الضغط مطولاً على هذا الزر أثناء الكتابة، سيُكتب الحرف الذي اخترته.</string>
+    <string name="layout_mapper_edit_key">تعديل الزر: %1$s</string>
+    <string name="layout_mapper_symbol_hint">حرف جديد</string>
+    <string name="layout_mapper_save">حفظ</string>
+    <string name="layout_mapper_remove">إزالة</string>
+    <string name="layout_mapper_reset_all">إلغاء كل التعديلات</string>
+    <string name="layout_mapper_reset_title">إلغاء كل التعديلات؟</string>
+    <string name="layout_mapper_reset_message">هذا سيلغي كل تعديلات الأزرار. لا يمكنك التراجع عن هذه الخطوة.</string>
+    <string name="layout_mapper_reset_confirm">تأكيد الإلغاء</string>
+    <string name="layout_mapper_saved">تم الحفظ</string>
+    <string name="layout_mapper_removed">تمت الإزالة</string>
+    <string name="layout_mapper_cleared">تم إلغاء كل التعديلات</string>
+    <string name="layout_mapper_save_failed">فشل الحفظ</string>
+    <string name="layout_mapper_remove_failed">فشل الإزالة</string>
+    <string name="layout_mapper_clear_failed">فشل مسح التعديلات</string>
+
+    <string name="privacy_settings_clipboard_history">سجل النسخ</string>
+    <string name="privacy_settings_clipboard_history_on">سجل النسخ مفعل</string>
+    <string name="privacy_settings_clipboard_history_off">سجل النسخ معطل</string>
+    <string name="privacy_settings_clear_learned_words">حذف الكلمات المٌتَعلَّمة</string>
+    <string name="privacy_settings_clear_learned_words_summary">حذف كل الكلمات التي تعلمتها لوحة المفاتيح</string>
+    <string name="privacy_settings_clear_learned_words_confirm">هل تريد حذف كل الكلمات المحفوظة؟ لا يمكن التراجع عن هذه الخطوة</string>
+    <string name="privacy_settings_reset_to_defaults">إعادة ضبط الإعدادات لوضعها الأصلي</string>
+    <string name="privacy_settings_reset_to_defaults_confirm">إرجاع جميع الإعدادات إلى وضعها الأصلي؟</string>
+    <string name="privacy_settings_export_error_log">حفظ سجلات الخلل</string>
+    <string name="privacy_settings_export_error_log_summary">مشاركة سجلات الخلل لمساعدة المطور</string>
+    <string name="privacy_settings_export_error_log_failed">فشل حفظ سجلات الخلل</string>
+    <string name="privacy_settings_export_dictionary">حفظ قاموس الكلمات</string>
+    <string name="privacy_settings_export_dictionary_summary">إنشاء ملف بالكلمات التي تعلمتها</string>
+    <string name="privacy_settings_import_dictionary">إضافة قائمة كلمات</string>
+    <string name="privacy_settings_import_dictionary_summary">استرجاع كلماتك المحفوظة من ملف سابق</string>
+
+    <string name="error_title">خلل</string>
+    <string name="error_update_theme">خلل اثناء تحديث الشكل</string>
+    <string name="error_update_key_size">خلل اثناء تحديث حجم الأزرار</string>
+    <string name="error_update_key_label_size">خلل اثناء تحديث حجم الخط</string>
+    <string name="error_update_spell_check">خلل اثناء تحديث التدقيق الإملائي</string>
+    <string name="error_update_suggestions">خلل اثناء تحديث الإعدادات المقترحة</string>
+    <string name="error_update_suggestion_count">خلل اثناء تحديث عدد الاقتراحات</string>
+    <string name="error_update_word_learning">خلل اثناء تحديث القاموس</string>
+    <string name="error_update_clipboard">خلل اثناء تحديث إعدادات سجل النسخ</string>
+    <string name="error_update_language">خلل اثناء تحديث إعدادات اللغة</string>
+    <string name="error_update_haptic_feedback">خلل اثناء تحديث الاستجابة اللمسية</string>
+    <string name="error_update_vibration_strength">خلل اثناء تحديث قوة اهتزاز الاستجابة اللمسية</string>
+    <string name="error_update_double_space_period">خلل اثناء تحديث مسافة مزدوجة للنقطة</string>
+    <string name="error_update_auto_capitalization">خلل اثناء تحديث التكبير التلقائي</string>
+    <!--Again, there is no capitalization in Arabic-->
+    <string name="error_update_swipe">خلل اثناء تحديث الكتابة بالسحب</string>
+    <string name="error_update_long_press_duration">خلل اثناء تحديث مدة الضغط المطول</string>
+    <string name="error_update_number_row">خلل اثناء تحديث صف الأرقام</string>
+    <string name="error_update_space_bar_size">خلل اثناء تحديث حجم زر المسافة</string>
+    <string name="error_update_alternative_layout">خلل اثناء تحديث ترتيب الحروف</string>
+    <string name="error_clear_learned_words">خلل اثناء تحديث إعدادات مسح الكلمات المٌتَعلَّمة</string>
+    <string name="error_reset_to_defaults">خلل اثناء إعادة ضبط الإعدادات لوضعها الاصلي</string>
+    <string name="error_dictionary_export">خلل اثناء حفظ القاموس</string>
+    <string name="error_dictionary_import">فشل استعادة القاموس</string>
+
+    <string name="success_learned_words_cleared">تم مسح القاموس بنجاح</string>
+    <string name="success_settings_reset">تمت إعادة ضبط الإعدادات</string>
+    <string name="success_dictionary_exported">تم حفظ %1$d كلمة</string>
+    <string name="success_dictionary_imported">تمت إضافة %1$d كلمة جديدة وتحديث %2$d كلمة</string>
+
+    <string name="keyboard_description">لوحة مفاتيح افتراضية</string>
+
+    <string name="letters_mode_label">ABC</string>
+    <string name="numbers_mode_label">123</string>
+    <string name="symbols_mode_label">+=&lt;</string>
+
+    <string name="key_character_description">%1$s</string>
+
+    <string name="shift_key_description">زر الحروف الكبيرة</string>
+    <string name="shift_active_description">زر الحروف الكبيرة مفعل، انقر للإلغاء</string>
+    <string name="caps_lock_description">قفل الحروف الكبيرة</string>
+    <string name="caps_lock_on_description">قفل الحروف الكبيرة مفعل، انقر للإلغاء</string>
+    <string name="backspace_key_description">مسح الحرف السابق</string>
+    <string name="space_key_description">زر المسافة</string>
+    <string name="letters_mode_description">التبديل للحروف</string>
+    <string name="numbers_mode_description">التبديل للأرقام</string>
+    <string name="symbols_mode_description">التبديل للرموز</string>
+    <string name="language_switch_description">تغيير لغة لوحة المفاتيح</string>
+    <string name="ime_prediction_description">الكلمة المتوقعة: %1$s</string>
+
+    <string name="action_enter_description">زر الإدخال (Enter)</string>
+    <string name="action_send_description">إرسال</string>
+    <string name="action_search_description">بحث</string>
+    <string name="action_done_description">تم</string>
+    <string name="action_go_description">ذهاب</string>
+    <string name="action_next_description">الذهاب للمربع التالي</string>
+    <string name="action_previous_description">الذهاب للمربع السابق</string>
+
+    <string name="action_emoji">إيموجي</string>
+    <string name="emoji_search_hint" tools:ignore="TypographyEllipsis">ابحث عن إيموجي...</string>
+    <string name="autofill_indicator_description">تتوفر مقترحات لكلمات المرور</string>
+
+    <string name="theme_description">شكل %1$s</string>
+    <string name="theme_description_selected">شكل %1$s (المحدد حالياً)</string>
+    <string name="theme_add_favorite">إضافة %1$s للمفضلة</string>
+    <string name="theme_remove_favorite">إزالة %1$s من المفضلة</string>
+
+    <string name="character_variation_position">شكل الحرف %1$d من %2$d: %3$s</string>
+
+    <string name="remove_suggestion">هل تريد إزالة %1$s من الاقتراحات؟</string>
+    <string name="remove_cancel">إلغاء</string>
+    <string name="remove_confirm">إزالة</string>
+
+    <string name="tip_1_title">حفظ الكلمات</string>
+    <string name="tip_1_description">اضغط على زر المسافة بعد كتابة كلمة جديدة لحفظها في القاموس.</string>
+
+    <string name="tip_2_title">علامات الترقيم السريعة</string>
+    <string name="tip_2_description">اضغط مطولاً على زر المسافة لفتح علامات الترقيم بسرعة.</string>
+
+    <string name="tip_3_title">أشكال الحروف</string>
+    <string name="tip_3_description">اضغط مطولاً على أي حرف لرؤية أشكال مختلفة منه.</string>
+
+    <string name="tip_4_title">حذف الكلمات</string>
+    <string name="tip_4_description">اضغط مطولاً على الكلمة المقترحة لحذفها من القاموس.</string>
+
+    <string name="tip_5_description">الضغط مطولاً على زر الرموز يفتح سجل الحافظة (النصوص المنسوخة).</string>
+    <string name="clipboard_panel_title">الحافظة</string>
+    <string name="clipboard_panel_pinned">مثبت</string>
+    <string name="clipboard_panel_recent">الأخيرة</string>
+    <string name="clipboard_panel_empty">لا توجد نصوص منسوخة</string>
+    <string name="clipboard_panel_delete_all">مسح الكل</string>
+    <string name="clipboard_panel_delete_all_confirm">هل تريد مسح كل النصوص غير المثبتة من الحافظة؟</string>
+
+    <string name="clipboard_consent_message">لوحة مفاتيح Urik يمكنها قراءة وحفظ النصوص المنسوخة. إذا كنت لا تريد ذلك، يمكنك إيقاف سجل الحافظة من الإعدادات.</string>
+    <string name="clipboard_item_description">نص منسوخ: %1$s</string>
+    <string name="clipboard_item_pin">تثبيت النص</string>
+    <string name="clipboard_item_unpin">إلغاء تثبيت النص</string>
+    <string name="clipboard_item_delete">حذف النص</string>
+    <string name="tip_5_title">مدير الحافظة</string>
+    <string name="typing_settings_swipe_enabled">الكتابة بالسحب علي الشاشة</string>
+    <string name="typing_settings_spacebar_cursor">تحريك المؤشر باستخدام زر المسافة</string>
+    <string name="typing_settings_spacebar_cursor_on">سحب إصبعك على زر المسافة لتحريك مؤشر الكتابة</string>
+    <string name="typing_settings_spacebar_cursor_off">تم تعطيل تحريك المؤشر بزر المسافة</string>
+    <string name="typing_settings_cursor_speed">سرعة المؤشر</string>
+    <string name="typing_settings_backspace_swipe">المسح السريع بسحب إصبعك على زر الحذف</string>
+    <string name="typing_settings_backspace_swipe_on">اسحب إصبعك لليسار على زر الحذف لحذف كلمة كاملة</string>
+    <string name="typing_settings_backspace_swipe_off">تم تعطيل المسح السريع</string>
+    <string name="typing_settings_long_press_punctuation">علامات الترقيم بالضغط المطول</string>
+    <string name="long_press_punctuation_off">إيقاف</string>
+    <string name="long_press_punctuation_spacebar">زر المسافة</string>
+    <string name="long_press_punctuation_period">زر النقطة</string>
+    <string name="error_update_spacebar_cursor">خلل اثناء تحديث إعدادات تحريك المؤشر</string>
+    <string name="error_update_cursor_speed">خلل اثناء تحديث سرعة المؤشر</string>
+    <string name="error_update_backspace_swipe">خلل اثناء تحديث إعدادات المسح السريع</string>
+    <string name="error_update_long_press_punctuation">خلل اثناء تغيير علامات الترقيم بالضغط المطول</string>
+    <string name="max_languages_reached">يُسمح بـ3 لغات كحد أقصى</string>
+
+</resources>
