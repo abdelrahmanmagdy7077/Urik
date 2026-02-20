@@ -1,19 +1,19 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="ime_label">لوحة مفاتيح Urik</string>
-    <string name="ime_description">الكتابة بالسحب، التدقيق الإملائي، ودعم لغات متعددة مع الحفاظ على خصوصيتك. لا نجمع بياناتك، كل شيء يبقى في جهازك</string>
+    <string name="ime_label">&#x200F;Urik لوحة مفاتيح</string>
+    <string name="ime_description">الكتابة بسحب الاصبع علي الشاشة، التدقيق الإملائي، ودعم لغات متعددة مع الحفاظ على خصوصيتك. لا نجمع بياناتك، كل شيء يبقى في جهازك</string>
 
     <string name="enable_keyboard_title">تفعيل</string>
     <string name="open_settings">فتح الإعدادات</string>
-    <string name="error_opening_settings">يوجد خطأ عند فتح الإعدادات</string>
+    <string name="error_opening_settings">يوجد خلل عند فتح الإعدادات</string>
 
     <string name="settings_title">إعدادات لوحة المفاتيح</string>
     <string name="about_title">حول التطبيق</string>
     <string name="about_button">حول</string>
     <string name="about_version">الإصدار</string>
-    <string name="about_copyright"> © 2025 Urik Development حقوق النشر</string>
-    <string name="about_license">GNU GPL v3.0 :الترخيص</string>
+    <string name="about_copyright">&#x200F; © 2025 Urik Development حقوق النشر</string>
+    <string name="about_license">&#x200F;GNU GPL v3.0 :الترخيص</string>
     <string name="about_source_code">الكود المصدري</string>
-    <string name="about_release_notes">ملاحظات التحديث</string>
+    <string name="about_release_notes">ملاحظات عن التحديث</string>
     <string name="about_report_bug">الإبلاغ عن مشكلة</string>
     <string name="about_privacy_policy">سياسة الخصوصية</string>
     <string name="about_support">دعم المطور</string>
@@ -21,9 +21,9 @@
     <string name="autocorrect_settings_description">التدقيق الإملائي واقتراح الكلمات</string>
     <string name="language_settings_title">اللغات</string>
     <string name="language_settings_description">اختر لغات لوحة المفاتيح</string>
-    <string name="typing_settings_title">طريقة الكتابة</string>
-    <string name="typing_settings_description">علامات الترقيم، الاهتزاز عند اللمس، وغيرها.</string>
-    <string name="layout_settings_title">الشكل والإدخال</string>
+    <string name="typing_settings_title">إعدادات الكتابة</string>
+    <string name="typing_settings_description">علامات الترقيم، الاهتزاز عند اللمس، وغيرها</string>
+    <string name="layout_settings_title">مظهر لوحة المفاتيح</string>
     <string name="layout_settings_description">صف الأرقام وحجم زر المسافة</string>
     <string name="appearance_settings_title">المظهر</string>
     <string name="appearance_settings_description">الألوان وحجم اللوحة</string>
